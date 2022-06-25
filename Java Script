@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript Task</title>
+
+</head>
+<body>
+    <script src="./screen.js"></script>
+    <h1>Task:<br>
+        Write a javascript code that prints out your name, height, and country on the screen</h1>
+
+</body>
+</html> 
+// First using the alert method to print to the screen
+
+alert("My name: Belonwu Edwin Ebuka")
+alert("My height: 6.4ft")
+alert("My country: Nigeria")
+
+// Second, using the document.write method to print to the screen
+document.write("<strong>My name:</strong> Belonwu Edwin Ebuka")
+document.write("<br>")
+document.write("<strong>My height:</strong> 6.4ft")
+document.write("<br>")
+document.write("<strong>My country:</strong> Nigeria")
